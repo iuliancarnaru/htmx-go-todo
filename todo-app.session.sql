@@ -1,0 +1,1 @@
+insert into tasks (title, position) values ("task2", 1) returning id;

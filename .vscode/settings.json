@@ -1,0 +1,17 @@
+{
+  "cSpell.words": [
+    "htmx",
+    "sortablejs",
+    "tailwindcss",
+    "tmpl"
+  ],
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "database": "${workspaceFolder:htmx-go-todo}/sqlite3.db",
+      "name": "todo-app"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
